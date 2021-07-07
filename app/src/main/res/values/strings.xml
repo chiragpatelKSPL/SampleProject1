@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="title_activity_001">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_chat_detail">FullscreenActivity</string>
+    <string name="hint_enter_your_message">Enter your message...</string>
+    <string name="hint_search">Search...</string>
+    <string name="dummy_user_name">Martina Wolna</string>
+    <string name="lbl_favourites">Favourites</string>
+    <string name="dummy_username_2">Anastasia Corovai</string>
+    <string name="dummy_date">JUL 27</string>
+    <string name="dummy_message">Hey how are you ?Hey how are you ?Hey how are you ?Hey how are you ?Hey how are you ?Hey how are you ?Hey how are you ?Hey how are you ?Hey how are you ?</string>
+    <string name="dummy_username_3">Krysia Eurydyka</string>
+</resources>
