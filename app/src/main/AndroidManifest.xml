@@ -12,12 +12,10 @@
         <activity
             android:name=".view.activities.MessageChatListActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_chat_detail"
             android:theme="@style/Theme.DemoApp.Fullscreen" />
         <activity
             android:name=".view.activities.MessageListActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_001"
             android:theme="@style/Theme.DemoApp.Fullscreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

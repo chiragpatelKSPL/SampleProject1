@@ -1,9 +1,7 @@
 <resources>
     <string name="app_name">DemoApp</string>
-    <string name="title_activity_001">FullscreenActivity</string>
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
-    <string name="title_activity_chat_detail">FullscreenActivity</string>
     <string name="hint_enter_your_message">Enter your message...</string>
     <string name="hint_search">Search...</string>
     <string name="dummy_user_name">Martina Wolna</string>
